@@ -97,7 +97,7 @@ StudyMate-AI/
 
 ## ⚙️ How It Works
 
-StudyMate AI uses a Retrieval-Augmented Generation pipeline to connect document search with AI-generated responses.
+StudyMate AI also uses a Retrieval-Augmented Generation pipeline to connect document search with AI-generated responses.
 
 1. **Document Upload:** The user uploads a PDF through the React interface.
 2. **Text Extraction:** The Flask backend extracts readable text from the uploaded document.
