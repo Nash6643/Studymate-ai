@@ -32,7 +32,7 @@ Built with **React, Flask, FAISS, and Google's Gemini API**, StudyMate AI combin
 
 ## 🏗️ Architecture
 
-StudyMate AI follows a modular full-stack architecture that separates the user interface, API layer, document processing pipeline, and semantic retrieval system.
+StudyMate AI follows a precise modular full-stack architecture that separates the user interface, API layer, document processing pipeline, and semantic retrieval system.
 
 ```text
                   ┌────────────────────────┐
